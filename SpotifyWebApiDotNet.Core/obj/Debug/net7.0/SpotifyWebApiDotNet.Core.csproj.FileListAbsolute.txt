@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\bin\Debug\net7.0\SpotifyWebApiDotNet.Core.deps.json
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\bin\Debug\net7.0\SpotifyWebApiDotNet.Core.dll
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\bin\Debug\net7.0\SpotifyWebApiDotNet.Core.pdb
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.dll
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\refint\SpotifyWebApiDotNet.Core.dll
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\SpotifyWebApiDotNet.Core.pdb
+C:\Users\Admin\Documents\Dev\project\spotify\Backend\SpotifyWebApiDotNet\SpotifyWebApiDotNet.Core\obj\Debug\net7.0\ref\SpotifyWebApiDotNet.Core.dll
